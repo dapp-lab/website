@@ -27,7 +27,7 @@
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
-      {% if post.collection == 'publications' %}
+      {% if post.collection == 'research' %}
         {{ title }}
       {% elsif post.collection == 'people' %}</a>
         <a href="{{ post.link }}">{{ title }}</a>
@@ -44,7 +44,7 @@
 
     {% if post.collection == 'teaching' %}
       <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-    {% elsif post.collection == 'publications' %}
+    {% elsif post.collection == 'research' %}
       {% if post.abstract %}
         <details><summary>Abstract</summary>
         <blockquote>

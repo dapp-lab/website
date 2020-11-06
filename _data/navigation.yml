@@ -1,7 +1,7 @@
 main:
   - title: "RADPKO"
     url: /radpko
-  - title: "Publications"
-    url: /publications
+  - title: "Research"
+    url: /research
   - title: "People"
     url: /people
