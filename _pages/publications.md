@@ -1,7 +1,6 @@
 ---
 title: "Publications"
 permalink: /publications/
-classes: wide
 ---
 
 You can view publications on United Nations peacekeeping from affiliated
