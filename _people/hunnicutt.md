@@ -1,6 +1,6 @@
 ---
 title: "Patrick Hunnicutt"
-excerpt: "Patrick Hunnicutt studies xxx."
+excerpt: "Patrick Hunnicutt's research focuses on how the environment and public service provision impact the effectiveness of international peacekeeping efforts."
 link: "https://phunnicutt.com/"
 header:
   teaser: /assets/images/people/hunnicutt.png
