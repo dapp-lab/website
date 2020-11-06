@@ -22,9 +22,9 @@ locale                   : "en-US"
 title                    : "DAPP"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "DAPP Lab"
 description              : "DAPP Lab"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://dapp-lab.org 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "jayrobwilliams/DAPP" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
