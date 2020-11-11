@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "RADPKO"
 permalink: /radpko/
 author_profile: false
@@ -26,11 +25,13 @@ or to a standard PRIO grid-cell.
 
 {% include gallery %}
 
+# Data access
+
 To download a copy of the data, visit RADPKO's [dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BQU5VD).
 
 When using the data please cite [Hunnicutt, Patrick and William G. Nomikos. 2020. "Nationality, Gender, and Deployments at the Local Level: Introducing the RADPKO Dataset." *International Peacekeeping* 24(7): 645-672.](https://doi.org/10.1080/13533312.2020.1738228)
 
-Why use RADPKO?
+# Why use RADPKO?
 
 - RADPKO is **COMPREHENSIVE**, covering all Chapter VII UN PKOs from 1999-2018 (we are updating through 2020 as we speak). Why these? They capture the universe of cases after which the UN focused much more explicitly on localized deployment and action.
 
