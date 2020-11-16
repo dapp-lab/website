@@ -27,9 +27,15 @@ or to a standard PRIO grid-cell.
 
 # Data access
 
-To download a copy of the data, visit RADPKO's [dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BQU5VD).
+To download a copy of the full dataset, visit RADPKO's
+[dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BQU5VD).
+You can also use the tool below to subset and download the data. The map
+provides a preview of the geographic coverage of the subset selected.
 
-When using the data please cite [Hunnicutt, Patrick and William G. Nomikos. 2020. "Nationality, Gender, and Deployments at the Local Level: Introducing the RADPKO Dataset." *International Peacekeeping* 24(7): 645-672.](https://doi.org/10.1080/13533312.2020.1738228)
+<iframe src="https://jayrobwilliams.shinyapps.io/RADPKO-download/" width="100%" height="700px" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+
+When using the data from either source please cite
+[Hunnicutt, Patrick and William G. Nomikos. 2020. "Nationality, Gender, and Deployments at the Local Level: Introducing the RADPKO Dataset." *International Peacekeeping* 24(7): 645-672.](https://doi.org/10.1080/13533312.2020.1738228)
 
 # Why use RADPKO?
 
