@@ -2,19 +2,6 @@
 title: "RADPKO"
 permalink: /radpko/
 author_profile: false
-gallery:
-  - url: /assets/images/radpko/liberia.png
-    image_path: /assets/images/radpko/liberia.png
-    alt: "deployments in Liberia in December, 2010"
-    title: "Deployments in Liberia in December, 2010"
-  - url: /assets/images/radpko/stats.png
-    image_path: /assets/images/radpko/stats.png
-    alt: "descriptive statistics for RADPKO data"
-    title: "Descriptive statistics for RADPKO data"
-  - url: /assets/images/radpko/deployments.png
-    image_path: /assets/images/radpko/deployments.png
-    alt: "mission-level deployments over time"
-    title: "Mission-level deployments over time"
 ---
 
 The Robust Africa Deployments of Peacekeeping Operations (RADPKO) dataset
@@ -22,8 +9,6 @@ includes all Chapter VII peacekeeping missions deployed in Africa from 1999 to
 2018 and describes the location, type, nationality, and gender of UN
 peacekeepers aggregated either to a country's second-order administrative unit
 or to a standard PRIO grid-cell.
-
-{% include gallery %}
 
 # Data access
 
