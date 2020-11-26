@@ -270,10 +270,10 @@ compress_html:
 # Collections
 collections:
   people:
-    output: true
     permalink: /:collection/:path/
   research:
-    output: true
+    permalink: /:collection/:path/
+  publications:
     permalink: /:collection/:path/
 
 # Defaults
