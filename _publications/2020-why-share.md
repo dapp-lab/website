@@ -1,7 +1,6 @@
 ---
 title: "Why Share? An Analysis of the Sources of Power-Sharing after Conflict"
 collection: research
-permalink: /research/2020-why-share
 date: 2020-08-01
 venue: 'Journal of Peace Research'
 paperurl: '/assets/pdf/research/nomikos_2020.pdf'

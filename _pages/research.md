@@ -3,8 +3,8 @@ title: "Research"
 permalink: /research/
 ---
 
-You can view published articles and working papers on United Nations
-peacekeeping from affiliated researchers below:
+You can view working papers and published articles on United Nations
+peacekeeping from affiliated researchers below.
 
 # Working papers
 

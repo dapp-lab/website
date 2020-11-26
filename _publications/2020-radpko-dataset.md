@@ -1,7 +1,6 @@
 ---
 title: "Nationality, Gender, and Deployments at the Local Level: Introducing the RADPKO Dataset"
 collection: research
-permalink: /research/2020-radpko
 date: 2020-07-01
 venue: 'International Peacekeeping'
 paperurl: '/assets/pdf/research/hunnicutt_and_nomikos_2020.pdf'

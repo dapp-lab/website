@@ -1,7 +1,6 @@
 ---
 title: "Peacekeeping and the Enforcement of Intergroup Cooperation: Evidence from Mali"
 collection: research
-permalink: /research/2020-pko-cooperation
 date: 2020-09-01
 venue: 'Journal of Politics'
 paperurl: '/assets/pdf/research/nomikos_2020a.pdf'
