@@ -18,7 +18,8 @@ joining the lab should contact [Prof. Nomikos](mailto:wnomikos@wustl.edu)
 directly. The lab offers graduate students access to data, research-related
 resources, and venues to present ongoing research. We especially encourage
 women, first generation students, students with disabilities, BIPoC students,
-and other students from underrepresented groups to contact us about the lab.
+and other students from historically excluded groups to contact us about the
+lab.
 
 The lab is financially supported by the
 [Weidenbaum Center on the Economy, Government, and Public Policy](https://wc.wustl.edu)
