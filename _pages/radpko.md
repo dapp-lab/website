@@ -3,7 +3,7 @@ title: "RADPKO"
 permalink: /radpko/
 author_profile: false
 header:
-  teaser: /assets/images/radpko/radpko-map.png
+  op_image: /assets/images/radpko/radpko-map.png
 ---
 
 The Robust Africa Deployments of Peacekeeping Operations (RADPKO) dataset
