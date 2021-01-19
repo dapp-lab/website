@@ -4,8 +4,28 @@ permalink: /people/
 layout: collection
 collection: people
 entries_layout: grid
-sort_by: date
+sort_by: order
 ---
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 

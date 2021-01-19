@@ -4,5 +4,5 @@ excerpt: "Ph.D. Candidate<br>Department of Political Science<br>Emory University
 link: "https://www.daniellevilla.com/"
 header:
   teaser: /assets/images/people/villa.png
-date: 2020-01-03
+date: 2020-01-04
 ---
