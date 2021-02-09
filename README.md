@@ -1,2 +1,2 @@
 # DAPP
-Data-drive Analysis of Peacekeeping Project website
+Data-drive Analysis of Peace Project website

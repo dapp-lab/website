@@ -1,16 +1,16 @@
 ---
 permalink: /
-title: "Data-driven Analysis of Peacekeeping Project"
+title: "Data-driven Analysis of Peace Project"
 excerpt: "DAPP"
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome to the website of the Data-driven Analysis of Peacekeeping Project
+Welcome to the website of the Data-driven Analysis of Peace Project
 (DAPP) lab. Founded by William G. Nomikos, the lab supports the efforts of
 [affiliated researchers](/people) studying many [different aspects](/research)
-of UN peacekeeping.
+of building peace in fragile settings.
 
 A key function of the lab is to support the research of junior scholars,
 especially graduate students. Prospective WashU PhD students interested in

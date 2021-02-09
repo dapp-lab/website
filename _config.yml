@@ -23,7 +23,7 @@ title                    : "DAPP"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "DAPP Lab"
-description              : "DAPP Lab"
+description              : "Data-driven Analysis of Peace Project Lab"
 url                      : https://dapp-lab.org 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "jayrobwilliams/DAPP" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
