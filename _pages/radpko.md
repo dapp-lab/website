@@ -28,6 +28,6 @@ When using the data from either source please cite
 
 - RADPKO is **COMPREHENSIVE**, covering all Chapter VII UN PKOs from 1999-2018 (we are updating through 2020 as we speak). Why these? They capture the universe of cases after which the UN focused much more explicitly on localized deployment and action.
 
-- RADPKO is **FLEXIBLE**, available in grid or ADM2 form. We aim to satisfy both PKO experts as well as generalists that might want to merge with other sources, including date from the World Bank, UCDP, ACLED, Afrobarometer, AIDdata.
+- RADPKO is **FLEXIBLE**, available in grid or ADM2 form. We aim to satisfy both PKO experts as well as generalists that might want to merge with other sources, including data from the World Bank, UCDP, ACLED, Afrobarometer, AIDdata, and others.
 
 - RADPKO is **TRANSPARENT**. Our data collection enterprise is replete with challenges. Our data suffers from reporting inaccuracies and missingness. The best we can do is be clear. We explain effort in more detail in paper, codebook, and online appendix.
