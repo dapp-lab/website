@@ -18,8 +18,15 @@ joining the lab should contact [Prof. Nomikos](mailto:wnomikos@wustl.edu)
 directly. The lab offers graduate students access to data, research-related
 resources, and venues to present ongoing research. We especially encourage
 women, first generation students, students with disabilities, BIPoC students,
-and other students from historically excluded groups to contact us about the
+and other students from historically-excluded groups to contact us about the
 lab.
+
+The lab also seeks to support research transparency and bridge the gap between
+data scientists and the peace science community. All of the code that supports
+the infrastructure of the lab, including the RADPKO dataset, is available on the
+lab's [GitHub repository](https://github.com/dapp-lab). We encourage broad use
+of the lab's resources, and are happy to discuss opportunities for
+collaboration.
 
 The lab is financially supported by the
 [Weidenbaum Center on the Economy, Government, and Public Policy](https://wc.wustl.edu)
