@@ -23,18 +23,6 @@ sort_by: order
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 # Alumni
 
 - Claudia Alegre
