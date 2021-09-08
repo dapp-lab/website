@@ -1,6 +1,6 @@
 ---
 title: "Taylor Damann"
-excerpt: "Graduate Researcher"
+excerpt: "Research Manager"
 link: "https://taydamann.github.io"
 header:
   teaser: /assets/images/people/damann.png
