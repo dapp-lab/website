@@ -1,19 +1,6 @@
 ---
 title: "Research"
 permalink: /research/
+layout: collection
+collection: research
 ---
-
-You can view working papers and published articles on peacebuilding from
-affiliated researchers below.
-
-# Working papers
-
-{% for post in site.research %}
-  {% include archive-single.html %}
-{% endfor %}
-
-# Publications
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
