@@ -1,7 +1,6 @@
 ---
 title: "RADPKO"
 permalink: /radpko/
-author_profile: false
 header:
   og_image: /assets/images/radpko/radpko-map.png
 ---
