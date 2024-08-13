@@ -8,18 +8,19 @@ redirect_from:
 ---
 
 Welcome to the website of the Data-driven Analysis of Peace Project
-(DAPP) lab. Founded by William G. Nomikos, the lab supports the efforts of
-[affiliated researchers](/people) studying many [different aspects](/research)
-of building peace in fragile settings.
+(DAPP) lab. Founded by William G. Nomikos, the lab is currently researching
+projects related to climate change and conflict. In the past, we've conducted
+research on UN peacekeeping operations and how international conflict shapes
+social media discourse about politics in the United States. 
 
 A key function of the lab is to support the research of junior scholars,
-especially graduate students. Prospective WashU PhD students interested in
-joining the lab should contact [Prof. Nomikos](mailto:wnomikos@wustl.edu)
-directly. The lab offers graduate students access to data, research-related
-resources, and venues to present ongoing research. We especially encourage
-women, first generation students, students with disabilities, BIPoC students,
-and other students from historically-excluded groups to contact us about the
-lab.
+especially graduate students. Prospective UCSB PhD students and current UCSB
+undergraduate students interested in joining the lab should contact
+[Prof. Nomikos](mailto:wnomikos@ucsb.edu) directly. The lab offers graduate
+students access to data, research-related resources, and venues to present
+ongoing research. We especially encourage women, first generation students,
+students with disabilities, BIPoC students, and other students from
+historically-excluded groups to contact us about the lab.
 
 The lab also seeks to support research transparency and bridge the gap between
 data scientists and the peace science community. All of the code that supports
